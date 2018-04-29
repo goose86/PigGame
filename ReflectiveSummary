@@ -1,0 +1,9 @@
+For my final project in my freshman Introduction to Computer Science class, I decided to develop a version of the game, Pig Game. 
+Pig Game is a dice game that takes strategy to win. I wrote the program in Java in approximately 15 hours with 7 different classes 
+to complete. This program helped me learn and understand everything from inheritance and multiple control structures to perfecting 
+my algorithms for my methods and classes. One particular class I called PigPlayer was one of my most challenging. PigPlayer included
+string methods for player information, booloean methods to check if a player won, and accessors and mutators to keep track of the 
+score and games won. This class was also a parent class to 5 other player classes, each with different algorithms that played the 
+game differently. My PigGame class was the second hardest of my classes. Inside PigGame were the algorithms that played the game, 
+whether it was 1 user vs. CPU, or 2 users against each other. PigGame consisted of 6 methods, numerous variables and static variables, 
+and a hefty do-while loop to check the game progress.
